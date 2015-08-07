@@ -1,2 +1,2 @@
 # UEditor-bower
-Baidu UEditor php version bower package repo
+Baidu UEditor js files from UEditor php version

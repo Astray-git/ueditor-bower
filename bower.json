@@ -1,6 +1,6 @@
 {
   "name": "UEditor-bower",
   "version": "1.4.3",
-  "description": "Baidu UEditor php version",
+  "description": "Baidu UEditor js files from UEditor php version",
   "main": "ueditor.all.min.js"
 }
